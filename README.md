@@ -5,3 +5,5 @@ We're are first time contributors. Yay!
 
 1. Tanui
 2. Kioko
+3. Risper
+
